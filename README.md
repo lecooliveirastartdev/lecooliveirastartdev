@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Sobre mim
+### 🚀 Sobre mim
 
 Sou desenvolvedor apaixonado por tecnologia, focado em **Back-end com Java** e práticas modernas de **DevOps**.  
 
@@ -27,16 +27,16 @@ Sou desenvolvedor apaixonado por tecnologia, focado em **Back-end com Java** e p
 
 ---
 
-## 🛠 Stack Técnica
+### 🛠 Stack Técnica
 
-### 🔹 Back-end
+#### 🔹 Back-end
 <p>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### 🔹 DevOps & Infra
+#### 🔹 DevOps & Infra
 <p>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -44,7 +44,7 @@ Sou desenvolvedor apaixonado por tecnologia, focado em **Back-end com Java** e p
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+### 💻 Tecnologias & Ferramentas
 
 <p>
   <!-- Core Stack -->
@@ -62,27 +62,30 @@ Sou desenvolvedor apaixonado por tecnologia, focado em **Back-end com Java** e p
 
 ---
 
-## 📊 Estatísticas GitHub
+### 🔥 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lecooliveirastartdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=lecooliveirastartdev&theme=dark&background=000000&ring=FF5555&fire=FFB86C&currStreakNum=FF79C6" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
 
-## 🔥 Destaque
+### 🔥 Destaque
 
 ✨ Este é um repositório especial que aparece diretamente no meu perfil GitHub.  
 Aqui você encontra minha evolução, projetos e visão como desenvolvedor.
 
 ---
 
-## 📬 Vamos conectar?
+### 📬 Vamos conectar?
 
-Se você é recrutador ou dev, bora trocar ideia 👇
+Vamos evoluirmos juntos, bora trocar ideia 👇
 
-- 💼 LinkedIn: https://www.linkedin.com/in/alexandrooliveira000/
-- 📧 Email: lecooliveirastartdev@hotmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrooliveira000/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lecooliveirastartdev@hotmail.com)
+
 
 ---
 
