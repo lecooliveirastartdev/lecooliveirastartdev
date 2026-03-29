@@ -3,12 +3,14 @@
 <div align="center">
   <h1> Olá, eu sou o Alexandro Oliveira 👋 </h1>
   
-  <a href="mailto:lecooliveirastartdev@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:lecooliveirastartdev@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/alexandrooliveira00" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-  <p> 🚀 <b>StartDev Labs</b> | Back-end Developer | Java & DevOps Enthusiast </p>
+  <p> 🚀 <b>StartDev Labs</b> | Back-end Developer | Java & DevOps </p>
 </div>
 
 ---
@@ -31,7 +33,7 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lecooliveirastartdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Stats do Leco" />
-</div><!--
+</div>
 **lecooliveirastartdev/lecooliveirastartdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
