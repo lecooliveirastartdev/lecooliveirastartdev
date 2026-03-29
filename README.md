@@ -6,7 +6,7 @@
   <a href="mailto:lecooliveirastartdev@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
-  <a href="https://www.linkedin.com/in/alexandrooliveira00/" target="_blank">
+  <a href="https://www.linkedin.com/in/alexandrooliveira000/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
  
