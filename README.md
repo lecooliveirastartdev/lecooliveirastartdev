@@ -1,40 +1,91 @@
 ## Hi there 👋
 
-<div align="center">
+<h1 align="center">👨‍💻 Alexandro Oliveira</h1>
+
+<p align="center">
+  🚀 <b>StartDev Labs</b> | Back-end Developer | Java & DevOps
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/alexandrooliveira000/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <a href="mailto:lecooliveirastartdev@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  <a href="mailto:lecooliveirastartdev@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
- 
-
-  <p> 🚀 <b>StartDev Labs</b> | Back-end Developer | Java & DevOps </p>
-</div>
+</p>
 
 ---
 
-### 🛠 Minha Stack Técnica
+## 🚀 Sobre mim
 
-**Back-end**
-<br />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+Sou desenvolvedor apaixonado por tecnologia, focado em **Back-end com Java** e práticas modernas de **DevOps**.  
 
-**DevOps & Infra**
-<br />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+💡 Em constante evolução, construindo soluções que geram impacto real.  
+🎯 Objetivo: transformar ideias em produtos escaláveis e úteis.  
+🧠 Mentalidade de aprendizado contínuo.
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lecooliveirastartdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Stats do Leco" />
-</div>
-**lecooliveirastartdev/lecooliveirastartdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Stack Técnica
 
+### 🔹 Back-end
+<p>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
+### 🔹 DevOps & Infra
+<p>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+## 💻 Tecnologias & Ferramentas
+
+<p>
+  <!-- Core Stack -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50"/>
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lecooliveirastartdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</p>
+
+---
+
+## 🔥 Destaque
+
+✨ Este é um repositório especial que aparece diretamente no meu perfil GitHub.  
+Aqui você encontra minha evolução, projetos e visão como desenvolvedor.
+
+---
+
+## 📬 Vamos conectar?
+
+Se você é recrutador ou dev, bora trocar ideia 👇
+
+- 💼 LinkedIn: https://www.linkedin.com/in/alexandrooliveira000/
+- 📧 Email: lecooliveirastartdev@hotmail.com
+
+---
+
+<p align="center">
+  🚀 <b>"Construindo hoje o futuro através da tecnologia."</b>
+</p>
